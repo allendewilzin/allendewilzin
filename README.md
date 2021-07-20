@@ -1,4 +1,10 @@
-### This is a
+### Hi there, I`m AJ aka allendewilzin
+
+## I am a Father, Developer and a Gamer
+- I love vscode and Nodejs
+- Networks and server configs interest me.
+- Camping and taking hikes are amazing for a recharge.
+- Love concentrating long hours
 
 ---
 
