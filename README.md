@@ -8,4 +8,6 @@
 
 ---
 
-[![Allendewilzin's GitHub stats](https://github-readme-stats.vercel.app/api?username=allendewilzin&count_private=true&show_icons=true&hide=contribs,issues,stars)](https://github.com/allendewilzin/github-readme-stats)
+[![Allendewilzin's GitHub stats](https://github-readme-stats.vercel.app/api?username=allendewilzin&count_private=true&show_icons=true&hide=contribs,issues,stars)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allendewilzin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
